@@ -7,3 +7,8 @@ Streamlit application for analyzing Crossref and DataCite DOIs to determine regi
 ```
 pip install -r requirements.txt
 ```
+
+## Usage
+```
+streamlit run app.py
+```
